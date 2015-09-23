@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.google.playservices.placecomplete.ShowDet">
+
+</menu>
+<!-- From: file:/home/kireet/Documents/learning/android/PlaceComplete/Application/src/main/res/menu/menu_show_det.xml -->
